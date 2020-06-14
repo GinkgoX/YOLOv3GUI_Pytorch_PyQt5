@@ -35,16 +35,15 @@ python login.py
 
 
 `register`:
-
-![1592177512101](../AppData/Roaming/Typora/typora-user-images/1592177512101.png)
+<img src="./1.jpg" style="zoom:90%;" />
 
 `login`:
 
-![1592177531965](../AppData/Roaming/Typora/typora-user-images/1592177531965.png)
+<img src="./2.jpg" style="zoom:80%;" />
 
 `detector`:
 
-![1592177576641](../AppData/Roaming/Typora/typora-user-images/1592177576641.png)
+<img src="./3.jpg" style="zoom:60%;" />
 
 
 #### #Reference:
