@@ -27,29 +27,27 @@ This is a GUI project for Deep Learning Object Detection based on YOLOv3 model
 
 #### #  Results:
 
-#### #  Results:
-
 ```python
 python login.py
 ```
 
-
 `register`:
-<img src="./1.jpg" style="zoom:90%;" />
+
+  ### <img src="./1.jpg" style="zoom:90%;" />
+
 
 `login`:
 
-<img src="./2.jpg" style="zoom:80%;" />
+
+  ### <img src="./2.jpg" style="zoom:80%;" />
 
 `detector`:
 
-<img src="./3.jpg" style="zoom:60%;" />
-
+  ### <img src="./3.jpg" style="zoom:60%;" />
 
 #### #Reference:
 
 model: https://github.com/ultralytics/yolov3.git
-
 
 
 
