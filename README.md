@@ -25,23 +25,12 @@ This is a GUI project for Deep Learning Object Detection based on YOLOv3 model
 
 `step 4` :  detect object
 
-#### #  Results:
+#### #  Demo:
 
 ```python
 python login.py
 ```
 
-`register`:
-
-<img src="./1.jpg" alt="1" width="300" />
-
-`login`:  
-
-<img src="./2.jpg" alt="2" width="300" />
-
-`detector`:
-
-<img src="./3.jpg" alt="3" width="300" />
 
 #### #Reference:
 
