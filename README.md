@@ -33,14 +33,15 @@ python login.py
 
 `register`:
 
-<img src="./1.jpg" />
+<img src="./1.jpg" alt="1" width="300" />
 
 `login`:  
 
-<img src="./2.jpg" />
+<img src="./2.jpg" alt="2" width="300" />
 
 `detector`:
-<img src="./3.jpg" />
+
+<img src="./3.jpg" alt="3" width="300" />
 
 #### #Reference:
 
